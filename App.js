@@ -48,7 +48,7 @@ const Loading = () => {
 }
 
 export default function App() {
-  const API_KEY = "e40d07f00b094602953cc3bf8537477e";
+  const API_KEY = "PUT_YOUR_API_KEY";
   const apiUrl = `https://newsapi.org/v2/everything?q=comics&sortBy=publishedAt&apiKey=${API_KEY}`;
 
   const [fetchingData, setFetchingDataState] = React.useState(true);
