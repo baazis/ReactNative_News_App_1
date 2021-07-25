@@ -35,7 +35,7 @@ The command starts the Metro bundler which bundles the JavaScript code of your a
 
 ![image](https://user-images.githubusercontent.com/58622363/126876260-28ca33e2-fc55-4679-804b-91102c0d242b.png)
 
-## After clicking on read more
+## After clicking on Read More...
 
 ![image](https://user-images.githubusercontent.com/58622363/126876284-8a7cda89-cdb6-4df5-8383-8c2d44134e89.png)
 
